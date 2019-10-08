@@ -736,6 +736,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   roatateSpeed: 100
+  touchRotateSpeed: 50
 --- !u!1 &2022767275
 GameObject:
   m_ObjectHideFlags: 0
@@ -833,6 +834,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   roatateSpeed: 100
+  touchRotateSpeed: 50
 --- !u!1 &2122344361
 GameObject:
   m_ObjectHideFlags: 0
